@@ -1,0 +1,6 @@
+  backend:
+    image: tash1gi/taski_backend
+  frontend:
+    image: tash1gi/taski_frontend
+  gateway:
+    image: tash1gi/taski_gateway
